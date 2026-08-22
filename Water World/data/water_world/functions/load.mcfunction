@@ -1,1 +1,0 @@
-execute unless data storage water_world {structure_spawned:1b} run function water_world:init
